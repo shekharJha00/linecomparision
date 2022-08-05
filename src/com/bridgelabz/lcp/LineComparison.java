@@ -1,6 +1,4 @@
 package com.bridgelabz.lcp;
-
-
 import java.util.Scanner;
 
 public class LineComparison {
@@ -44,4 +42,5 @@ public class LineComparison {
         }
 
 
-    }}
+    }
+}
